@@ -1,0 +1,67 @@
+DupTree created in Setup: 
+0 0 1 1 2 3 3 3 4 4 5 7 8 10 11 11 11 11 15 17 17 20 21 21 23 24 
+
+Sorted ArrayList created in Setup: 
+0 0 1 1 2 3 3 3 4 4 5 7 8 10 11 11 11 11 15 17 17 20 21 21 23 24 
+
+----------------------------
+DupTree invariant maintained
+----------------------------
+
+Testing DupTree delete(2)
+inserted value 2 into duptree; count = 2 after insertion.
+deleted value 2 into duptree; count = 1 after deletion.
+
+Testing DupTree delete(17)
+inserted value 17 into duptree; count = 3 after insertion.
+deleted value 17 into duptree; count = 2 after deletion.
+
+Testing DupTree delete(18)
+inserted value 18 into duptree; count = 1 after insertion.
+deleted value 18 into duptree; it is no longer present in duptree
+
+Testing DupTree delete(7)
+inserted value 7 into duptree; count = 2 after insertion.
+deleted value 7 into duptree; count = 1 after deletion.
+
+Testing DupTree delete(13)
+inserted value 13 into duptree; count = 1 after insertion.
+deleted value 13 into duptree; it is no longer present in duptree
+
+Testing DupTree delete(15)
+inserted value 15 into duptree; count = 2 after insertion.
+deleted value 15 into duptree; count = 1 after deletion.
+
+Testing DupTree delete(16)
+inserted value 16 into duptree; count = 1 after insertion.
+deleted value 16 into duptree; it is no longer present in duptree
+
+Testing DupTree delete(2)
+inserted value 2 into duptree; count = 2 after insertion.
+deleted value 2 into duptree; count = 1 after deletion.
+
+Testing DupTree delete(9)
+inserted value 9 into duptree; count = 1 after insertion.
+deleted value 9 into duptree; it is no longer present in duptree
+
+Testing DupTree delete(18)
+inserted value 18 into duptree; count = 1 after insertion.
+deleted value 18 into duptree; it is no longer present in duptree
+
+DupTree delete test passed
+
+----------------------------
+DupTree invariant maintained
+----------------------------
+
+----------------------------
+DupTree invariant maintained
+----------------------------
+
+ Testing DupTree insert ...
+Creating ArrayList iterator and Comparing elements pair-wise ...
+... DupTree insert test passed
+
+----------------------------
+DupTree invariant maintained
+----------------------------
